@@ -23,7 +23,7 @@ def show_banner():
                                              <\__ __/>                            
 
                                        
-""" + Fore.CYAN + Style.BRIGHT + "         For Red Teamers\n")
+""" + Fore.CYAN + Style.BRIGHT + "                              For Red Teamers\n")
 
 def shorten_url_with_bitly(long_url, token):
     headers = {
