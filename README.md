@@ -24,8 +24,19 @@ This tool is intended for professional Red Team operations, especially:
 
 Clone the repository and run the installer:
 
-```bash
-git clone https://github.com/youruser/qr-g3n.git
-cd qr-g3n
-chmod +x install.sh
-./install.sh
+#git clone https://github.com/c0mm4nd1/qr-g3n.git
+#cd qr-g3n
+#chmod +x install.sh
+#./install.sh
+
+## 🧪 Usage
+After installation:
+
+source venv/bin/activate
+python3 qr_g3n.py
+
+🧑‍💻 Author
+Created by @c0mm4nd1 for Ethical Red Teaming and security awareness.
+
+🛡️ Disclaimer
+This tool is for educational and authorized security testing purposes only. Do not use it for malicious activity.
