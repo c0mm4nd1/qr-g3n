@@ -35,8 +35,8 @@ After installation:
 source venv/bin/activate
 python3 qr_g3n.py
 
-🧑‍💻 Author
+##🧑‍💻 Author
 Created by @c0mm4nd1 for Ethical Red Teaming and security awareness.
 
-🛡️ Disclaimer
+##🛡️ Disclaimer
 This tool is for educational and authorized security testing purposes only. Do not use it for malicious activity.
