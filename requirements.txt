@@ -2,3 +2,4 @@ requests
 qrcode[pil]
 pillow
 colorama
+dos2unix
