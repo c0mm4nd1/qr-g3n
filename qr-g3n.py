@@ -8,17 +8,24 @@ init(autoreset=True)
 def show_banner():
     print(Fore.CYAN + Style.BRIGHT + """
 
-                                                                            
 
- .88888.    888888ba                    d8888b.          
-d8'   `8b   88    `8b                       `88          
-88     88  a88aaaa8P'          .d8888b.  aaad8' 88d888b. 
-88  db 88   88   `8b. 88888888 88'  `88     `88 88'  `88 
-Y8.  Y88P   88     88          88.  .88     .88 88    88 
- `8888PY8b  dP     dP          `8888P88 d88888P dP    dP 
-oooooooooooooooooooooooooooooooo~~~~.88~ooooooooooooooooo
-                                d8888P                   
-                       
+                                                                   
+       :                                                           
+      t#,                                            L.            
+     ;##W.   j.                         .Gt  L       EW:        ,ft
+    :#L:WE   EW,                       j#W:  #K:     E##;       t#E
+   .KG  ,#D  E##j                    ;K#f    :K#t    E###t      t#E
+   EE    ;#f E###D.                .G#D.       L#G.  E#fE#f     t#E
+  f#.     t#iE#jG#W;  .......     j#K;          t#W, E#t D#G    t#E
+  :#G   G.GK E#t t##f GEEEEEEf. ,K#f   ,GD;  .jffD##fE#t  f#E.  t#E
+   ;#L  DWW. E#t  :K#E:          j#Wi   E#t .fLLLD##LE#t   t#K: t#E
+    t#f j#L  E#KDDDD###i          .G#D: E#t     ;W#i E#t    ;#W,t#E
+     f#D#j#. E#f,t#Wi,,,            ,K#fK#t    j#E.  E#t     :K#D#E
+      G#t .  E#t  ;#W:                j###t  .D#f    E#t      .E##E
+       t     DWi   ,KK:                .G#t  KW,     ..         G#E
+                                         ;;  G.                  fE
+                                                                  ,
+
                                        
 """ + Fore.GREEN + Style.BRIGHT + "         For Red Teamers\n")
 
