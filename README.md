@@ -30,7 +30,7 @@ Clone the repository and run the installer:
 
 #chmod +x install.sh
 
-#./install.sh
+#bash ./install.sh
 
 
 ## 🧪 Usage
