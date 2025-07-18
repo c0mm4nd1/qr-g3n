@@ -25,9 +25,13 @@ This tool is intended for professional Red Team operations, especially:
 Clone the repository and run the installer:
 
 #git clone https://github.com/c0mm4nd1/qr-g3n.git
+
 #cd qr-g3n
+
 #chmod +x install.sh
+
 #./install.sh
+
 
 ## 🧪 Usage
 
