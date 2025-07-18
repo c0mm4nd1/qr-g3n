@@ -1,14 +1,13 @@
 #!/bin/bash
 
-printf "📦 Creating virtual environment...\n"
+echo "📦 Creating virtual environment..."
 python3 -m venv venv
 
-printf "✅ Activating virtual environment...\n"
+echo "✅ Activating virtual environment..."
 source venv/bin/activate
 
-printf "⬇ Installing dependencies...\n"
+echo "⬇ Installing dependencies..."
 pip install --upgrade pip
 pip install --break-system-packages -r requirements.txt
 
-printf "🎉 Installation complete.\n"
-
+echo "🎉 Installation complete."
