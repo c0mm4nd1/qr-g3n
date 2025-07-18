@@ -8,7 +8,6 @@ init(autoreset=True)
 def show_banner():
     print(Fore.CYAN + Style.BRIGHT + """
 
-
                                                                             
   ,ad8888ba,    88888888ba                         ad888888b,               
  d8"'    `"8b   88      "8b                       d8"     "88               
@@ -20,9 +19,8 @@ Y8,    "88,,8P  88    `8b  """"""""  8b       88          "8b  88       88
   `"Y8888Y"Y8a  88      `8b           `"YbbdP"Y8   "Y888888P'  88       88  
                                       aa,    ,88                            
                                        "Y8bbdP"                             
-                                
-
-""" + Fore.GREEN + Style.BRIGHT + "                     For Red Teamers v.1\n")
+                                       
+""" + Fore.GREEN + Style.BRIGHT + "         For Red Teamers\n")
 
 def shorten_url_with_bitly(long_url, token):
     headers = {
