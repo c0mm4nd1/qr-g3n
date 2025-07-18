@@ -11,6 +11,8 @@ pip install --upgrade pip
 pip install -r requirements.txt
 
 echo "🎉 Installation complete."
+
 echo "To use the tool:"
-echo "source venv/bin/activate"
-echo "python3 qr_g3n.py"
+
+echo "#source venv/bin/activate"
+echo "#python3 qr_g3n.py"
