@@ -37,8 +37,6 @@ Clone the repository and run the installer:
 
 After installation:
 
-#source venv/bin/activate
-
 #python3 qr_g3n.py
 
 
