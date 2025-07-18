@@ -20,7 +20,7 @@ $$ $$\$$ |$$ |  $$ |        $$ |  $$ |$$ |  $$ |$$ |       $$ |$$\ $$ |
                             \$$$$$$  |                                       
                              \______/                                        
 
-""" + Fore.GREEN + Style.BRIGHT + "          For Red Teamers v.1\n")
+""" + Fore.GREEN + Style.BRIGHT + "                     For Red Teamers v.1\n")
 
 def shorten_url_with_bitly(long_url, token):
     headers = {
