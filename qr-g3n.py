@@ -9,16 +9,16 @@ def show_banner():
     print(Fore.CYAN + Style.BRIGHT + """
 
                                                                             
-  ,ad8888ba,    88888888ba                         ad888888b,               
- d8"'    `"8b   88      "8b                       d8"     "88               
-d8'        `8b  88      ,8P                               a8P               
-88          88  88aaaaaa8P'           ,adPPYb,d8       aad8"   8b,dPPYba,   
-88          88  88""""88'  aaaaaaaa  a8"    `Y88       ""Y8,   88P'   `"8a  
-Y8,    "88,,8P  88    `8b  """"""""  8b       88          "8b  88       88  
- Y8a.    Y88P   88     `8b           "8a,   ,d88  Y8,     a88  88       88  
-  `"Y8888Y"Y8a  88      `8b           `"YbbdP"Y8   "Y888888P'  88       88  
-                                      aa,    ,88                            
-                                       "Y8bbdP"                             
+
+ .88888.    888888ba                    d8888b.          
+d8'   `8b   88    `8b                       `88          
+88     88  a88aaaa8P'          .d8888b.  aaad8' 88d888b. 
+88  db 88   88   `8b. 88888888 88'  `88     `88 88'  `88 
+Y8.  Y88P   88     88          88.  .88     .88 88    88 
+ `8888PY8b  dP     dP          `8888P88 d88888P dP    dP 
+oooooooooooooooooooooooooooooooo~~~~.88~ooooooooooooooooo
+                                d8888P                   
+                       
                                        
 """ + Fore.GREEN + Style.BRIGHT + "         For Red Teamers\n")
 
