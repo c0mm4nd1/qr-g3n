@@ -9,22 +9,18 @@ def show_banner():
     print(Fore.CYAN + Style.BRIGHT + """
 
 
-                                                                   
-       :                                                           
-      t#,                                            L.            
-     ;##W.   j.                         .Gt  L       EW:        ,ft
-    :#L:WE   EW,                       j#W:  #K:     E##;       t#E
-   .KG  ,#D  E##j                    ;K#f    :K#t    E###t      t#E
-   EE    ;#f E###D.                .G#D.       L#G.  E#fE#f     t#E
-  f#.     t#iE#jG#W;  .......     j#K;          t#W, E#t D#G    t#E
-  :#G   G.GK E#t t##f GEEEEEEf. ,K#f   ,GD;  .jffD##fE#t  f#E.  t#E
-   ;#L  DWW. E#t  :K#E:          j#Wi   E#t .fLLLD##LE#t   t#K: t#E
-    t#f j#L  E#KDDDD###i          .G#D: E#t     ;W#i E#t    ;#W,t#E
-     f#D#j#. E#f,t#Wi,,,            ,K#fK#t    j#E.  E#t     :K#D#E
-      G#t .  E#t  ;#W:                j###t  .D#f    E#t      .E##E
-       t     DWi   ,KK:                .G#t  KW,     ..         G#E
-                                         ;;  G.                  fE
-                                                                  ,
+      o__ __o        o__ __o                                o__ __o               
+     /v     v\      <|     v\                              /v     v\              
+    />       <\     / \     <\                            />       <\             
+  o/           \o   \o/     o/                 o__ __o/            o/   \o__ __o  
+ <|             |>   |__  _<|       _\__o__   /v     |           _<|     |     |> 
+  \\           //    |       \           \   />     / \             \   / \   / \ 
+    \       \o/     <o>       \o             \      \o/  \          /   \o/   \o/ 
+     o       |       |         v\             o      |     o       o     |     |  
+     <\__   / \     / \         <\            <\__  < >    <\__ __/>    / \   / \ 
+                                                     |                            
+                                             o__     o                            
+                                             <\__ __/>                            
 
                                        
 """ + Fore.GREEN + Style.BRIGHT + "         For Red Teamers\n")
