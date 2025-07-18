@@ -6,7 +6,7 @@ from colorama import init, Fore, Style
 init(autoreset=True)
 
 def show_banner():
-    print(Fore.RED + Style.BRIGHT + """
+    print(Fore.GREEN + Style.BRIGHT + """
 
   ░██████   ░█████████                      ░██████              ░██████              ░████      ░██      ░████            
  ░██   ░██  ░██     ░██                    ░██   ░██            ░██   ░██            ░██ ██      ░██     ░██ ░██           
